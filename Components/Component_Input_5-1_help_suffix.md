@@ -6,4 +6,5 @@
     <span aria-hidden="true">€</span>
     <span class="sr-only">amount in euros</span>
   </p>
-</div>```
+</div>
+```
