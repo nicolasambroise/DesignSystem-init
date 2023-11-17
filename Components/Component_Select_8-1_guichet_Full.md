@@ -4,7 +4,7 @@
   <div class="cmp-tooltip">
     <button type="button" aria-label="Help on select label" class="cmp-tooltip-btn">i</button>
     <div class="cmp-tooltip-content" role="status">
-      <p hidden>Example and non-essential help about select</p>
+      <p>Example and non-essential help about select</p>
     </div>
   </div>
   <select id="select" name="select" class="form-field" aria-describedby="desc-select error-select" aria-invalid="true" required>
@@ -13,7 +13,11 @@
     <option value="option2">Option 2</option>
     <option value="option3">Option 3</option>
   </select>
-  <p id="desc-select">Help message</p>
-  <p id="error-select" class="error">Error message</p>
+  <div class="alert alert--info">
+    <p id="desc-select">Help message</p>
+  </div>
+  <div class="alert alert--error">
+    <p id="error-select" class="error">Error message</p>
+  </div>
 </div>
 ```
