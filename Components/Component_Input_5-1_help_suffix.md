@@ -1,7 +1,9 @@
 ```html
 <div class="form-group">
-  <label for="id-amount">Amount</label>
-  <div class="from-field-wrapper--suffix">
+  <div class="form-group-label">
+    <label for="id-amount">Amount</label>
+  </div>
+  <div class="form-group-field from-field-wrapper--suffix">
     <input type="text" id="id-amount" name="amount_01" class="form-field" aria-describedby="id-amount-currency">
     <p id="id-amount-currency" class="form-field-suffix">
       <span aria-hidden="true">€</span>

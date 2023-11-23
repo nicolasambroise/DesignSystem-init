@@ -1,6 +1,10 @@
 ```html
 <div class="form-group">
-  <label for="select">Label <span class="field-required">*</span></label>
-  <select id="select" name="select" class="form-field" required>[…]</select>
+  <div class="form-group-label">
+    <label for="select">Label <span class="field-required">*</span></label>
+  </div>
+  <div class="form-group-field">
+    <select id="select" name="select" class="form-field" required>[…]</select>
+  </div>
 </div>
 ```

@@ -1,6 +1,10 @@
 ```html
 <div class="form-group">
-  <label for="select">Label</label>
-  <select id="select" name="select" class="form-field" disabled>[…]</select>
+  <div class="form-group-label">
+    <label for="select">Label</label>
+  </div>
+  <div class="form-group-field">
+    <select id="select" name="select" class="form-field" disabled>[…]</select>
+  </div>
 </div>
 ```

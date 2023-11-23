@@ -1,6 +1,10 @@
 ```html
 <div class="form-group">
-  <label for="comment">Comment <span class="field-required">*</span></label>
-  <textarea id="comment" name="comment" required></textarea>
+  <div class="form-group-label">
+    <label for="comment">Comment <span class="field-required">*</span></label>
+  </div>
+  <div class="form-group-field">
+    <textarea id="comment" name="comment" required></textarea>
+  </div>
 </div>
 ```
