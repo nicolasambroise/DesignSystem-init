@@ -2,12 +2,20 @@
 <fieldset>
   <legend>Contact person information</legend>
   <div class="form-group">
-    <label for="birthdate">Birth date</label>
-    <input id="birthdate" name="birthdate" type="date">
+    <div class="form-group-label">
+      <label for="birthdate">Birth date</label>
+    </div>
+    <div class="form-group-field">
+      <input id="birthdate" name="birthdate" type="date">
+    </div>
   </div>
   <div class="form-group">
-    <label for="birthplace">Birth place</label>
-    <input type="text" id="birthplace" name="birthplace" class="form-field">
+    <div class="form-group-label">
+      <label for="birthplace">Birth place</label>
+    </div>
+    <div class="form-group-field">
+      <input type="text" id="birthplace" name="birthplace" class="form-field">
+    </div>
   </div>
 </fieldset>
 ```
