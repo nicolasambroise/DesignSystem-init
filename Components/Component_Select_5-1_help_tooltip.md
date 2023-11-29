@@ -2,9 +2,9 @@
 <div class="form-group">
   <div class="form-group-label">
     <label for="children">Number of children</label>
-    <div class="cmp-tooltip">
-      <button type="button" aria-label="Help on Number of children field" class="cmp-tooltip-btn">i</button>
-      <div class="cmp-tooltip-content" role="status">
+    <div class="tooltip">
+      <button type="button" aria-label="Help on Number of children field" class="tooltip-btn">i</button>
+      <div class="tooltip-content" role="status">
         <p>Count only the number of children in the household </p>
       </div>
     </div>

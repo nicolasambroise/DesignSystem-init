@@ -2,9 +2,9 @@
 <div class="form-group">
   <div class="form-group-label">
     <label for="datefield">Choose a date<label>
-    <div class="cmp-tooltip">
-      <button type="button" aria-label="Help on Date field" class="cmp-tooltip-btn">i</button>
-      <div class="cmp-tooltip-content" role="status">
+    <div class="tooltip">
+      <button type="button" aria-label="Help on Date field" class="tooltip-btn">i</button>
+      <div class="tooltip-content" role="status">
         <p>The date should be in the future</p>
       </div>
     </div>

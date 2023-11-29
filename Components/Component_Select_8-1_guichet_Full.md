@@ -2,9 +2,9 @@
 <div class="form-group field-error">
   <div class="form-group-label">
     <label for="select">Label <span class="field-required">*</span></label>
-    <div class="cmp-tooltip">
-      <button type="button" aria-label="Help on select label" class="cmp-tooltip-btn">i</button>
-      <div class="cmp-tooltip-content" role="status">
+    <div class="tooltip">
+      <button type="button" aria-label="Help on select label" class="tooltip-btn">i</button>
+      <div class="tooltip-content" role="status">
         <p>Example and non-essential help about select</p>
       </div>
     </div>

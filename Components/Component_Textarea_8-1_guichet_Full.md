@@ -2,15 +2,15 @@
 <div class="form-group field-error">
   <div class="form-group-label">
     <label for="textarea">Label <span class="field-required">*</span></label>
-    <div class="cmp-tooltip">
-      <button type="button" aria-label="Help on textarea label" class="cmp-tooltip-btn">i</button>
-      <div class="cmp-tooltip-content" role="status">
+    <div class="tooltip">
+      <button type="button" aria-label="Help on textarea label" class="tooltip-btn">i</button>
+      <div class="tooltip-content" role="status">
         <p>Example and non-essential help about textarea</p>
       </div>
     </div>
   </div>
   <div class="form-group-field from-field-wrapper--counter">
-    <p id="counter-textarea" role="status">
+    <p id="counter-textarea" class="form-counter" role="status">
       <span class="counter-value">0</span>/
       <span class="counter-total">5000</span>
     </p>

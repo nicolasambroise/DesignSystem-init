@@ -2,9 +2,9 @@
 <div class="form-group field-error">
   <div class="form-group-label">
     <label for="date">Label <span class="field-required">*</span></label>
-    <div class="cmp-tooltip">
-      <button type="button" aria-label="Help on date label field" class="cmp-tooltip-btn">i</button>
-      <div class="cmp-tooltip-content" role="status">
+    <div class="tooltip">
+      <button type="button" aria-label="Help on date label field" class="tooltip-btn">i</button>
+      <div class="tooltip-content" role="status">
         <p>Example and non-essential help about date label field</p>
       </div>
     </div>

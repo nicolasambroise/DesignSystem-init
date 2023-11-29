@@ -4,7 +4,7 @@
     <label for="textarea">Label</label>
   </div>
   <div class="form-group-field from-field-wrapper--counter">
-    <p id="textarea-counter" role="status">
+    <p id="textarea-counter" class="form-counter" role="status">
       <span class="counter-value">0</span>/
       <span class="counter-total">5000</span>
     </p>
