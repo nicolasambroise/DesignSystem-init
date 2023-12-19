@@ -1,5 +1,3 @@
 ```html
-<button class="btn btn-primary">
-  Label
-</button>
+<button class="btn btn-primary" type="button">Label</button>
 ```
