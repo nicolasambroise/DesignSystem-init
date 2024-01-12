@@ -1,4 +1,4 @@
-```html
+```html //DesignSystem version 2023
 <fieldset>
   <legend>Issue description</legend>
   <div class="form-group">

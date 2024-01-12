@@ -1,4 +1,4 @@
-```html
+```html //DesignSystem version 2023
 <details class="cmp-accordion">
   <summary class="cmp-accordion__summary">
     <h3 class="cmp-accordion__header">Accordion heading</h3>

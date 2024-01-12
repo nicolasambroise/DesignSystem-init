@@ -1,4 +1,4 @@
-```html
+```html //DesignSystem version 2023
 <div role="region" aria-live="polite" aria-atomic="true" class="form-group">
   <div class="form-group-label">
     <label for="total">Total price €</label>
