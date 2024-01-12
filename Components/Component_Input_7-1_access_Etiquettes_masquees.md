@@ -1,4 +1,5 @@
-```html //DesignSystem version 2023
+```html 
+//DesignSystem version 2023
 <div class="form-group">
   <div class="form-group-label">
     <label for="search" class="sr-only">Search a publication</label>

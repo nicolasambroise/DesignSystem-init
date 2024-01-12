@@ -1,4 +1,5 @@
-```html //DesignSystem version 2023
+```html 
+//DesignSystem version 2023
 <button class="accordion-global-toggle" aria-controls="accordion-items">Show all</button>
 <div class="cmp-accordion-wrapper" id="accordion-items">
   <details class="cmp-accordion">

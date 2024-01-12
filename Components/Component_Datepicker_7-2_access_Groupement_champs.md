@@ -1,4 +1,5 @@
-```html //DesignSystem version 2023
+```html 
+//DesignSystem version 2023
 <fieldset>
   <legend>Contact person information</legend>
   <div class="form-group">

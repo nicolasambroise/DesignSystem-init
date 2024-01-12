@@ -1,4 +1,5 @@
-```html //DesignSystem version 2023
+```html 
+//DesignSystem version 2023
 <div class="cmp-iterative-rows">
   <fieldset>
     <legend>Information about contact person #01</legend>

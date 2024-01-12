@@ -1,4 +1,5 @@
-```html //DesignSystem version 2023
+```html 
+//DesignSystem version 2023
 <fieldset class="form-options form-options--checkbox" aria-describedby="checkboxes_desc">
   <legend class="form-options-legend">Legend</legend>
   <div class="alert alert--info">
